@@ -1,0 +1,3 @@
+[submodule "linas-site/themes/themes/hugo-swift-theme"]
+	path = linas-site/themes/themes/hugo-swift-theme
+	url = https://github.com/onweru/hugo-swift-theme.git
