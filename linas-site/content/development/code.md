@@ -8,7 +8,14 @@ description: "Схема кода и сам код с пояснениями."
 
 ## Схема кода и сам код с пояснениями к нему. 
 
-I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
+
+
+```yaml
+params:
+  CopyrightHTML: "Copyright &#xA9; 2013 John Doe. All Rights Reserved."
+  TwitterUser: "spf13"
+  SidebarRecentLimit: 5
+```
 
 We'll start with creating a new site with a very basic template. Then we'll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.
 
